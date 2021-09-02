@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fire
   layers:
   - Default
   - TransparentFX
@@ -13,13 +14,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Climbing
+  - Player
+  - Bacground
+  - Enemy
+  - Hazerds
+  - Interactibles
   - 
   - 
   - 
@@ -40,4 +41,25 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2906623061
+    locked: 0
+  - name: Ladders
+    uniqueID: 1750775211
+    locked: 0
+  - name: Enrmy
+    uniqueID: 3048938805
+    locked: 0
+  - name: Hazerds
+    uniqueID: 3824245403
+    locked: 0
+  - name: Player
+    uniqueID: 3963695835
+    locked: 0
+  - name: Foreground
+    uniqueID: 3754772713
+    locked: 0
+  - name: Interactibles
+    uniqueID: 1389269263
     locked: 0
